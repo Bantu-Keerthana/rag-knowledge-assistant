@@ -1,0 +1,119 @@
+{
+  "timestamp": "2026-04-24T17:46:18.512419",
+  "chunk_sizes_tested": [
+    300,
+    500,
+    1000
+  ],
+  "best_chunk_size": 300,
+  "results": {
+    "300": {
+      "num_chunks": 13,
+      "queries": [
+        {
+          "query": "What is machine learning?",
+          "avg_similarity": 0.6178,
+          "top_similarity": 0.6989,
+          "num_results": 3
+        },
+        {
+          "query": "How does RAG work?",
+          "avg_similarity": 0.3849,
+          "top_similarity": 0.4575,
+          "num_results": 3
+        },
+        {
+          "query": "What are vector databases used for?",
+          "avg_similarity": 0.5644,
+          "top_similarity": 0.6366,
+          "num_results": 3
+        },
+        {
+          "query": "Explain supervised vs unsupervised learning",
+          "avg_similarity": 0.519,
+          "top_similarity": 0.5729,
+          "num_results": 3
+        },
+        {
+          "query": "What is transfer learning?",
+          "avg_similarity": 0.5351,
+          "top_similarity": 0.6928,
+          "num_results": 3
+        }
+      ],
+      "overall_avg_similarity": 0.5242
+    },
+    "500": {
+      "num_chunks": 10,
+      "queries": [
+        {
+          "query": "What is machine learning?",
+          "avg_similarity": 0.6043,
+          "top_similarity": 0.6746,
+          "num_results": 3
+        },
+        {
+          "query": "How does RAG work?",
+          "avg_similarity": 0.3849,
+          "top_similarity": 0.4575,
+          "num_results": 3
+        },
+        {
+          "query": "What are vector databases used for?",
+          "avg_similarity": 0.5056,
+          "top_similarity": 0.6807,
+          "num_results": 3
+        },
+        {
+          "query": "Explain supervised vs unsupervised learning",
+          "avg_similarity": 0.509,
+          "top_similarity": 0.5729,
+          "num_results": 3
+        },
+        {
+          "query": "What is transfer learning?",
+          "avg_similarity": 0.5327,
+          "top_similarity": 0.6928,
+          "num_results": 3
+        }
+      ],
+      "overall_avg_similarity": 0.5073
+    },
+    "1000": {
+      "num_chunks": 10,
+      "queries": [
+        {
+          "query": "What is machine learning?",
+          "avg_similarity": 0.6043,
+          "top_similarity": 0.6746,
+          "num_results": 3
+        },
+        {
+          "query": "How does RAG work?",
+          "avg_similarity": 0.3849,
+          "top_similarity": 0.4575,
+          "num_results": 3
+        },
+        {
+          "query": "What are vector databases used for?",
+          "avg_similarity": 0.5056,
+          "top_similarity": 0.6807,
+          "num_results": 3
+        },
+        {
+          "query": "Explain supervised vs unsupervised learning",
+          "avg_similarity": 0.509,
+          "top_similarity": 0.5729,
+          "num_results": 3
+        },
+        {
+          "query": "What is transfer learning?",
+          "avg_similarity": 0.5327,
+          "top_similarity": 0.6928,
+          "num_results": 3
+        }
+      ],
+      "overall_avg_similarity": 0.5073
+    }
+  }
+}

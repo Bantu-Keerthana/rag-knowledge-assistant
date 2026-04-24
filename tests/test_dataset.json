@@ -1,0 +1,27 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the main topic of the document?",
+    "expected_answer": "Replace this with the actual expected answer from your documents."
+  },
+  {
+    "id": "q2",
+    "question": "What are the key findings mentioned in the report?",
+    "expected_answer": "Replace with expected answer based on your ingested documents."
+  },
+  {
+    "id": "q3",
+    "question": "Who is the author of the document?",
+    "expected_answer": "Replace with actual author name from your documents."
+  },
+  {
+    "id": "q4",
+    "question": "What data sources were used in the analysis?",
+    "expected_answer": "Replace with the actual data sources mentioned in your docs."
+  },
+  {
+    "id": "q5",
+    "question": "What recommendations does the document make?",
+    "expected_answer": "Replace with the actual recommendations from your documents."
+  }
+]
