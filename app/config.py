@@ -24,7 +24,7 @@ class Settings:
     SIMILARITY_THRESHOLD: float = float(os.getenv("SIMILARITY_THRESHOLD", "0.3"))
 
     # LLM
-    LLM_MODEL: str = os.getenv("LLM_MODEL", "gemini-2.0-flash")
+    LLM_MODEL: str = os.getenv("LLM_MODEL", "gemini-2.5-flash")
     LLM_TEMPERATURE: float = float(os.getenv("LLM_TEMPERATURE", "0.1"))
 
 
