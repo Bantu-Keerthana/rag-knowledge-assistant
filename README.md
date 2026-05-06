@@ -1,4 +1,4 @@
-# 📚 RAG Knowledge Assistant
+# RAG Knowledge Assistant
 
 A production-grade, multi-source Retrieval-Augmented Generation (RAG) system that ingests PDFs, web pages, and CSVs, answers questions with source citations, evaluates itself for hallucinations, and deploys via CI/CD.
 
