@@ -8,11 +8,11 @@ API_URL = os.getenv("API_URL", "https://rag-app-622286330296.us-central1.run.app
 
 st.set_page_config(
     page_title="RAG Knowledge Assistant",
-    page_icon="📚",
+    page_icon="",
     layout="wide",
 )
 
-st.title("📚 RAG Knowledge Assistant")
+st.title(" RAG Knowledge Assistant")
 st.caption("Upload documents and ask questions with cited answers.")
 
 # --- Sidebar: Document Ingestion ---
